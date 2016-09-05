@@ -1,2 +1,2 @@
-It is definitely a small planet!
-Add a line to create a conflict. 
+It is so a planet!
+We both added a line to create a conflict. 
